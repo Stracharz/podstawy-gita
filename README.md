@@ -1,2 +1,2 @@
-# podstawy-html
+# podstawy-gita
 ## prosta strona www
