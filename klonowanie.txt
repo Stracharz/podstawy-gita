@@ -1,1 +1,2 @@
-
+git clone nazwa-strony.git
+to jest polecenie do sklonowania repozytorium zdalnego na komputer
