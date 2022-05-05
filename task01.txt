@@ -1,0 +1,12 @@
+Zadanie nr 1.
+
+Wstep:
+Git pozwala Ci zarządzać projektem. Github to miejsce, gdzie wgląd lub dostęp do projektu umożliwiasz innym. 
+Aby zmiany w projekcie się nie mieszały, to pracuje się na branchach. W branchu "master" lub "main" nic bezpośrednio nie zmieniamy.
+I aby było trudniej branche mogą być zdalne (remote) - to te, które widzisz w githubie oraz lokalne (local) - to te widoczne na Twoim komputerze.
+
+Opis:
+Od brancha "tasks" utwórz nową branch o nazwie "task01".
+W niej z kolei utwórz nowy plik o nazwie "klonowanie" i rozszerzeniu "txt".
+Otworz ten plik i napisz w nim jakim poleceniem klonuje się repozytorium zdalne na komputer.
+Zapisz.
