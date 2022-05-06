@@ -1,0 +1,14 @@
+Sklonowanie zdalnego repozytorium na komputer
+
+Wstęp:
+Nad projektami pracuje się w swoich własnych lokalnych repozytoriach. Dopiero efekty pracy wypuszcza się do repoztorium zdalnego, jak to w Githubie. 
+Aby jednak poruszać się po lokalnym repozytorium potrzebne są narzędzi, jak np., gitbush.
+
+Opis:
+Zainstaluj git na komputerze.
+
+Utwórz na komputerze folder o nazwie "git-nauka".
+Wejdź do niego. Uruchom w nim program gitbash i wpisz komendę klonującą Twoje repozytorium z githuba.
+Nastepnie użyj komenty "ls" by sprawdzić czy pojawił się nowy folder.
+Jeśli tak, użyj komendy "cd nazwa-folderu".
+Jeśli pomyślnie wszedłeś do folderu to sprawdź status repozytorium za pomocą komendy: "git status".
