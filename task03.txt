@@ -1,0 +1,27 @@
+Stworzenie pliku z komendami
+
+Wstęp:
+Komendy stosowane w terminalu (np. Gitbash), używa się z różną częstotliwością. Niektóre często, inne rzadko. 
+Nierzadko traci się dużo czasu na ich odnajdywanie. Dlatego też warto mieć je zgromadzone w jednym miejscu.
+
+Opis:
+Na swoim komputerze w repozytorium przełącz się na branch tasks. Komenda: git checkout nazwa-brancha.
+
+Następnie ściągnij zmiany ze zdalnego repozytorium. Komenda: git pull.
+
+Teraz w swoim lokalnym repozytorium utwórz nową branch. Komenda: git branch -b nazwa-brancha. Ta komenda od razu przełączy cię na nowy branch.
+
+Utwórz na nim nowy plik. Komenda: touch nazwa.txt
+
+Znajdź go w Eksploratorze plików, otwórz i zapisz w nim wszystkie dotychczas zastosowane komendy. Zapisz zmiany.
+
+Teraz, gdy wpiszesz komendę: git status, pokażą Ci się zmiany jakie zrobiłeś w repozytorium. Musisz je zapisać. 
+Służą do tego dwie komendy, z których pierwsza staszuje zmiany, druga kommituje:
+1) git add . 
+2) git commit -m "nazwa twojej zmiany" //uwaga!, musi ta nazwa być w cudzysłowiu, np. "Add new file"
+
+Teraz, gdy ponownie sprawdź git status. Jeśli wszystko gra, pora na ostatnią rzecz, wypuszczenie zmian do zdalnego repozytorium, by mogli je zobaczyć współpracownicy.
+Zastosuj komendę: git push origin nazwa-brancha
+
+Brawo! Zrobiłeś pierwsz kroki w profesjonalnym programowaniu! 
+Dla pewności sprawdź zdalne repozytorium :)
