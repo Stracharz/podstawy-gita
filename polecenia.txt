@@ -1,0 +1,6 @@
+ls - pokazuje mi zawartość folderu w którym jesteś
+git branch -a - pokazuje mi moje branche
+git checkout -b nazwa-brancha - zmienia branche
+touch nazwa.txt - tworze nowego brancha
+git pull - ściąga mi zmiany z mojego zdalnego repozytorium
+git status - pokażą ci się zmiany jakie zrobiłeś w repozytorium
