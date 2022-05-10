@@ -1,0 +1,19 @@
+Ćwiczenie z komendami
+
+Wstęp:
+Pamiętaj by notować w swoim pliku wszystkie nowo poznane komendy.
+
+Opis:
+Na swoim komputerze w repozytorium przełącz się na branch tasks. Następnie ściągnij zmiany ze zdalnego repozytorium. 
+
+Teraz w swoim lokalnym repozytorium utwórz nową branch, np. task04. 
+
+Utwórz na nim nowy plik index.txt.
+
+Jeśli go utworzyłeś sprawdź za pomocą komendy czy jest widoczny.
+
+Teraz kolejne zadanie. Skasuje ten plik! Znajdź w internecie komendę i ją zastosuj.
+
+Następnie utwórz plik index.html
+
+Teraz zestaszuj i zakommituj zmiany. A następnie wypushuj do zdalnego repozytorium.
