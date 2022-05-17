@@ -4,3 +4,8 @@ git checkout -b nazwa-brancha - zmienia branche
 touch nazwa.txt - tworze nowego brancha
 git pull - ściąga mi zmiany z mojego zdalnego repozytorium
 git status - pokażą ci się zmiany jakie zrobiłeś w repozytorium
+git push origin nazwa-brancha - wypuszczam zmiany do zdalnego repozytorium
+git add . - staszuje
+git commit -m "nazwa-commita" - commituje
+git rm nazwa-pliku - kasuje plik
+git fetch - ujednolicenie repozytoriów
